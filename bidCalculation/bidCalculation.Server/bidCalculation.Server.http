@@ -1,0 +1,6 @@
+@bidCalculation.Server_HostAddress = http://localhost:5037
+
+POST {{bidCalculation.Server_HostAddress}}/bid/
+Accept: application/json
+
+###
